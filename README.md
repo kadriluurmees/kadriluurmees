@@ -1,4 +1,4 @@
-- 👋 Tere! Minu nimi on Kadri Luurmees @kadriluurmees
+- 👋 Tere! Minu nimi on Kadri Luurmees 
   - Tulin 21. koolist GAG gümnaasiumisse ning valisin arvutisuuna, sest tahtsin proovida, kas selline ala võiks mulle ka tulevikus sobida. Oma suuna juures olen väga nautinud just veebidisaini, kuid programmeerimisest pole justkui väga midagi teada saanud. 
 - 👀 Arvutitega ja IT-ga pole absoluutselt varasemat kogemust ja programmeerimisest ei tea rohkem, kui algseid scratchi teadmisi... 
 
